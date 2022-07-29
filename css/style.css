@@ -1,0 +1,22 @@
+
+body {
+    background-color: #E7F6F2;
+}
+hr {
+    border-style: dotted none none none;
+    width: 10%;
+    border-width: 10px;
+    border-color: #A5C9CA;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF
+}
+
+.sec_td {
+    padding: 0 15px;
+}
