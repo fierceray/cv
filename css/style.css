@@ -11,6 +11,7 @@ hr {
 
 h1 {
     color: #66BFBF;
+    display: inline;
 }
 
 h3 {
@@ -19,4 +20,19 @@ h3 {
 
 .sec_td {
     padding: 0 15px;
+}
+
+p {
+    display: block;
+}
+div {
+    display: inline-block;
+
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+
 }
